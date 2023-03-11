@@ -1,10 +1,10 @@
-#Ejemplo de React Query
-##Creado con vite : react + ts
+# Ejemplo de React Query
+## Creado con vite : react + ts
 
-###Paquetes
+### Paquetes
 $ npm i react-query
 
-###Configuración
+### Configuración
 Ver https://react-query-v3.tanstack.com/quick-start
 
 
